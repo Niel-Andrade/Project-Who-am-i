@@ -15,7 +15,7 @@ Esse foi meu primeiro projeto feito com o intuito de mostrar alguns comandos do 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 
-## 🤝 Colaboradores:
+## 🤝 Desenvolvido por:
 
 <table>
   <tr>
